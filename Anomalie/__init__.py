@@ -1,0 +1,2 @@
+from .methode_z_score import detect_anomalies_zscore
+from .methode_isolation_forest import detect_anomalies_isolation_forest
